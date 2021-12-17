@@ -2,7 +2,7 @@
 
 ## 繁體中文 <a href="#fanti" id="fanti"></a>
 
-* [English](https://metanexus.gitbook.io/english/index)
+* [English](https://metanexus.gitbook.io/english1/index)
 * [简体中文](https://metanexus.gitbook.io/chinese/index)
 
 ***
