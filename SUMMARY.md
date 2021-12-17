@@ -1,12 +1,5 @@
 # Table of contents
 
-## 繁體中文 <a href="#fanti" id="fanti"></a>
-
-* [English](https://metanexus.gitbook.io/english1/index)
-* [简体中文](https://metanexus.gitbook.io/chinese/index)
-
-***
-
 * [🌎 NexusSwap介紹](README.md)
 
 ## 产品
